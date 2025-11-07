@@ -1,0 +1,26 @@
+{
+    "folders": [
+		{
+			"name": "AMBIENTE TESTE",
+			"path": "../../../OneDrive/Área de Trabalho/DEV/AMBIENTE TESTE"
+		},
+		{
+			"name": "AMBIENTE TESTE PT2",
+			"path": "../../../OneDrive/Área de Trabalho/DEV/AMBIENTE TESTE PT2"
+		},
+		{
+			"name": "PROJETO HTML 2",
+			"path": "../../../OneDrive/Área de Trabalho/DEV/PROJETO HTML 2"
+		},
+		{
+			"name": "PROJETO MKT  DIGITAL",
+			"path": "../../../OneDrive/Área de Trabalho/DEV/PROJETO MKT  DIGITAL"
+		},
+		{
+			"path": "../../../OneDrive/Área de Trabalho/DEV/AMBIENTE FACULDADE"
+		}
+	],
+    "settings": {
+        "liveServer.settings.multiRootWorkspaceName": "AMBIENTE FACULDADE"
+    }
+}
